@@ -1,0 +1,23 @@
+/* 
+    Document   : meucss
+    Created on : 16/01/2012, 17:59:34
+    Author     : claytontaketomi
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body
+{
+background-color:#3399FF;
+}
+h1
+{
+color:orange;
+text-align:center;
+}
+p
+{
+font-family:"Times New Roman";
+font-size:20px;
+color: red;
+}
